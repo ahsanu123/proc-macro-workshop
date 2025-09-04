@@ -1,0 +1,3 @@
+expand: 
+  cargo expand --test parse >> expanded.rs
+
