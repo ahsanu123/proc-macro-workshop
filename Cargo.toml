@@ -5,6 +5,7 @@ edition = "2021"
 publish = false
 
 [workspace]
+members = ["exploring_data_structure"]
 
 [[bin]]
 name = "workshop"
